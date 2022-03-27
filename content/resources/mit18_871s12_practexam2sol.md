@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: d1a532c8-aabc-bd41-7813-cf1cadc50ff9
 resourcetype: Document
 title: Theory of Numbers, Exam 2 Practice Solutions
 uid: 32dc844a-d021-0436-29e6-744d22663b31

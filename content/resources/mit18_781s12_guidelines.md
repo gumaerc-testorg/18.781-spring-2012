@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: d1a532c8-aabc-bd41-7813-cf1cadc50ff9
 resourcetype: Document
 title: Theory of Numbers, Exam 1 Guidelines
 uid: ea79d216-5472-8149-60d4-4ac4294355c1

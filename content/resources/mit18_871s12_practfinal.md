@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: d1a532c8-aabc-bd41-7813-cf1cadc50ff9
 resourcetype: Document
 title: Theory of Numbers, Exam Final Practice
 uid: e98a405c-1b10-8c99-3144-5102ffa52863

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 84c22f7c-e328-142d-947e-896af650a12f
 resourcetype: Document
 title: Theory of Numbers, solution 2
 uid: ab9702d4-63a4-cfbd-8a32-7a7f2091bd65
