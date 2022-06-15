@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with the lecture notes from each session.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction, Diophantine Equations, Divisibility, GCD (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec1)
+{{% resource_link cbd5d6e2-ae7f-4a92-bba2-52a47031a89d "Introduction, Diophantine Equations, Divisibility, GCD (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +38,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Euclidean Algorithm, Primes (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec2)
+{{% resource_link 0ddadd3b-4c7f-386b-2ae4-8a28b6f5ab47 "Euclidean Algorithm, Primes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Binomial Coefficients, Congruences (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec3)
+{{% resource_link 88c21fe8-3628-32ad-dd5a-7c3a46671d6c "Binomial Coefficients, Congruences (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +56,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[FFermat, Euler, Wilson, Linear Congruences (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec4)
+{{% resource_link de23a8d8-81a6-1530-3f6d-4fa665669dc9 "FFermat, Euler, Wilson, Linear Congruences (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Linear Congruences, Chinese Remainder Theorem, Algorithms (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec5)
+{{% resource_link 7b36e2ad-a32c-5ed0-6387-83d4e66af60c "Linear Congruences, Chinese Remainder Theorem, Algorithms (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +74,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Primality, Factoring, RSA, Hensel's Lemma (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec6)
+{{% resource_link 22f790db-07c4-3592-3690-00a37c31d487 "Primality, Factoring, RSA, Hensel's Lemma (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Congruences mod Primes, Order, Primitive Roots (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec7)
+{{% resource_link 8df2d99b-4301-3b2d-2017-537f7cfeb499 "Congruences mod Primes, Order, Primitive Roots (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +92,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Primitive Roots (Prime Powers), Index Calculus (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec8)
+{{% resource_link 4725535f-ce23-9230-0678-25c86e89afaa "Primitive Roots (Prime Powers), Index Calculus (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +110,7 @@ Midterm 1
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Quadratic Residues, Quadratic Reciprocity (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec9)
+{{% resource_link d5cdd1b8-0219-4a2a-236e-ed934da8ae36 "Quadratic Residues, Quadratic Reciprocity (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Midterm 1
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Jacobi Symbol, Computation, Zolotareff's Definition (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec10)
+{{% resource_link 785c3073-02fa-0fd1-113b-0fd6bdaf6f4a "Jacobi Symbol, Computation, Zolotareff's Definition (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +128,7 @@ Midterm 1
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Square Roots, Tonelli's Algorithm, Number of Consecutive Pairs of Squares mod p (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec11)
+{{% resource_link 06ed224c-da69-3f97-9b64-b07b2ff180b8 "Square Roots, Tonelli's Algorithm, Number of Consecutive Pairs of Squares mod p (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +137,7 @@ Midterm 1
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Cyclotomic Polynomials, Primes Congruent to 1 mod n (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec12)
+{{% resource_link 7312c3e8-e2db-b9af-9a16-77425fc3a0e7 "Cyclotomic Polynomials, Primes Congruent to 1 mod n (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +146,7 @@ Midterm 1
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Arithmetic Functions (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec13)
+{{% resource_link 78999710-b038-85ac-2245-2548aaa2bceb "Arithmetic Functions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +155,7 @@ Midterm 1
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Mobius Inversion Formula, Zeta Functions (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec14)
+{{% resource_link a9705132-0da9-73ca-ebac-da06c3a74eac "Mobius Inversion Formula, Zeta Functions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +164,7 @@ Midterm 1
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Linear Recurrences (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec15)
+{{% resource_link 7e59481a-f383-a19c-116d-d87022cfc18e "Linear Recurrences (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +173,7 @@ Midterm 1
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Generating Functions (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec16)
+{{% resource_link 80cbdaca-76b9-9796-04ef-35095b02262b "Generating Functions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +191,7 @@ Midterm 2
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[More on Generating Functions, Two Squares Theorem (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec17)
+{{% resource_link d811e4a8-36b6-6dbc-71f9-17d92188c4d1 "More on Generating Functions, Two Squares Theorem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +200,7 @@ Midterm 2
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Continued Fractions I (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec18)
+{{% resource_link 81634d22-f185-7426-47f7-0f1d8969feee "Continued Fractions I (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +209,7 @@ Midterm 2
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Continued Fractions II: Inequalities (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec19)
+{{% resource_link 188dd907-b2b5-567d-40be-6f18591d10a4 "Continued Fractions II: Inequalities (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +218,7 @@ Midterm 2
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Periodic Continued Fractions, Quadratic Irrationalities (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec20)
+{{% resource_link 8ff6ae31-a851-874a-11c5-08ddfa4b754c "Periodic Continued Fractions, Quadratic Irrationalities (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +227,7 @@ Midterm 2
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Brahmagupta-Pell Equation (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec21)
+{{% resource_link 13cf7a5b-5cc7-50ba-c322-99824469a8d2 "Brahmagupta-Pell Equation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +236,7 @@ Midterm 2
 24
 {{< tdclose >}}
 {{< tdopen >}}
-[Four Squares Theorem (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec22)
+{{% resource_link fe790e3f-49be-0f81-f6f2-5135d00476a9 "Four Squares Theorem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +245,7 @@ Midterm 2
 25
 {{< tdclose >}}
 {{< tdopen >}}
-[Pythagorean Triples, Fermat Descent (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec23)
+{{% resource_link 5afc5a24-dda3-8226-c008-5f15510de89b "Pythagorean Triples, Fermat Descent (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,7 +254,7 @@ Midterm 2
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[Rational Points on Conics (PDF)]({{< baseurl >}}/resources/mit18_781s12_lec24)
+{{% resource_link b1bdb077-2bad-7954-e840-cb3222e808a0 "Rational Points on Conics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
