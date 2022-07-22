@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides the two midterm exams and the final exam, along
+  with a set of practice problems, exam guidelines, and solutions for each of the
+  three exams.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: d1a532c8-aabc-bd41-7813-cf1cadc50ff9
 ---
@@ -28,13 +34,13 @@ Exam GUIDELINES
 Midterm 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Exam 1 Practice Problems (PDF)]({{< baseurl >}}/resources/mit18_781s12_practiceexam1)
+{{% resource_link 8990e475-680f-ca08-e381-f83fab0f0d48 "Exam 1 Practice Problems (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Exam 1 Practice Problem Solutions (PDF)]({{< baseurl >}}/resources/mit18_781s12_practexam1sol)
+{{% resource_link 6c4ad9cd-4cd0-74fb-8356-3b8e9719bafa "Exam 1 Practice Problem Solutions (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Exam 1 Guidelines (PDF)]({{< baseurl >}}/resources/mit18_781s12_guidelines)
+{{% resource_link ea79d216-5472-8149-60d4-4ac4294355c1 "Exam 1 Guidelines (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,13 +49,13 @@ Midterm 1
 Midterm 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Exam 2 Practice Problems (PDF)]({{< baseurl >}}/resources/mit18_871s12_practiexam2)
+{{% resource_link adde4392-33cf-189b-2c96-0a571ae31ac8 "Exam 2 Practice Problems (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Exam 2 Practice Problem Solutions (PDF)]({{< baseurl >}}/resources/mit18_871s12_practexam2sol)
+{{% resource_link 32dc844a-d021-0436-29e6-744d22663b31 "Exam 2 Practice Problem Solutions (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Exam 2 Guidelines (PDF)]({{< baseurl >}}/resources/mit18_781s12_guidelines2)
+{{% resource_link 23065a7d-844b-0bc2-650c-0ffb751df72d "Exam 2 Guidelines (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,13 +64,13 @@ Midterm 2
 Final
 {{< tdclose >}}
 {{< tdopen >}}
-[Final Exam Practice Problems (PDF)]({{< baseurl >}}/resources/mit18_871s12_practfinal)
+{{% resource_link e98a405c-1b10-8c99-3144-5102ffa52863 "Final Exam Practice Problems (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Final Exam Practice Problem Solutions (PDF)]({{< baseurl >}}/resources/mit18_781s12_practfinalsol)
+{{% resource_link 38edf39c-1202-c7e7-7fed-782b2bd14545 "Final Exam Practice Problem Solutions (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Final Exam Guidelines (PDF)]({{< baseurl >}}/resources/mit18_781s12_guidelinfinal)
+{{% resource_link bad003fc-b147-ee6b-7686-98da38d51f0f "Final Exam Guidelines (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

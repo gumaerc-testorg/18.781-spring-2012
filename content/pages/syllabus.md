@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course and information
+  on meeting times, prerequisites, textbooks, homework, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 28baa9ae-614d-5acb-913b-3cd5323f44c3
 ---
@@ -28,7 +32,7 @@ There are no formal prerequisites for the class, but some familiarity with proof
 Text
 ----
 
-There won't be a required text for the course (we'll be following [lecture notes]({{< baseurl >}}/pages/lecture-notes)). There are a few recommended texts, in case you want to do some background reading.
+There won't be a required text for the course (we'll be following {{% resource_link f6816877-ee72-4ff9-e594-f0771eaa96bb "lecture notes" %}}). There are a few recommended texts, in case you want to do some background reading.
 
 *   Niven, Ivan, Herbert S. Zuckerman, and Hugh L. Montgomery. _An Introduction to the Theory of Numbers_. Wiley, 1991. ISBN: 9780471625469.
 
@@ -50,7 +54,7 @@ It has a very different style from the usual theorem-proof-exercise setup of usu
 
 Assumes more algebra background, but goes quite far, taking the reader to some of the frontiers of algebraic number theory.
 
-Another source is Franz Lemmermeyer's lecture notes online (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.fen.bilkent.edu.tr/~franz/nth06/nth.pdf)). These assume a bit more background than Niven, Zuckerman and Montgomery, but perhaps not as much as Ireland and Rosen.
+Another source is Franz Lemmermeyer's lecture notes online ([PDF](http://www.fen.bilkent.edu.tr/~franz/nth06/nth.pdf)). These assume a bit more background than Niven, Zuckerman and Montgomery, but perhaps not as much as Ireland and Rosen.
 
 Homework
 --------
