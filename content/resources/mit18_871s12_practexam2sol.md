@@ -6,6 +6,7 @@ file: /courses/18-781-theory-of-numbers-spring-2012/32dc844ad021043629e6744d2266
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Theory of Numbers, Exam 2 Practice Solutions
 uid: 32dc844a-d021-0436-29e6-744d22663b31
 ---
 This file contains information regarding Practice Questions for Midterm 2.
-

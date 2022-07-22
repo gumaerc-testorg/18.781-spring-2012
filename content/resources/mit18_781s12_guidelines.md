@@ -5,6 +5,7 @@ file: /courses/18-781-theory-of-numbers-spring-2012/ea79d2165472814960d44ac42943
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Theory of Numbers, Exam 1 Guidelines
 uid: ea79d216-5472-8149-60d4-4ac4294355c1
 ---
 This file contains information regarding Guidelines for Midterm1.
-

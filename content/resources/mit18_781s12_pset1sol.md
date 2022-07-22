@@ -6,6 +6,7 @@ file: /courses/18-781-theory-of-numbers-spring-2012/d2ab41f579356890dd65a7dbfe6e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Theory of Numbers, solution 1
 uid: d2ab41f5-7935-6890-dd65-a7dbfe6e0040
 ---
 This resource contains information regarding theory of numbers, solution 1.
-

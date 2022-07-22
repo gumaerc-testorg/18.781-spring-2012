@@ -5,6 +5,7 @@ file: /courses/18-781-theory-of-numbers-spring-2012/8990e475680fca08e381f83fab0f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Theory of Numbers, Exam 1 Practice
 uid: 8990e475-680f-ca08-e381-f83fab0f0d48
 ---
 This file contains information regarding Practice problems for Midterm1.
-

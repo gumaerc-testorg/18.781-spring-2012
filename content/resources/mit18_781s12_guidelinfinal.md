@@ -5,6 +5,7 @@ file: /courses/18-781-theory-of-numbers-spring-2012/bad003fcb147ee6b768698da38d5
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Theory of Numbers,  Exam Final Guidelines
 uid: bad003fc-b147-ee6b-7686-98da38d51f0f
 ---
 This file contains information regarding Guidelines for Final exam .
-
