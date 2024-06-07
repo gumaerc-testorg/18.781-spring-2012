@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding theory of numbers, solution
   4-2.
 file: /courses/18-781-theory-of-numbers-spring-2012/0a5565014c202f169887b4b658b03ff4_MIT18_781S12_pset4-2sol.pdf
+file_size: 158982
 file_type: application/pdf
 learning_resource_types:
 - Assignments
