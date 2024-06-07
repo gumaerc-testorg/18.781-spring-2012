@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding theory of numbers, solution
   5.
 file: /courses/18-781-theory-of-numbers-spring-2012/8f8c1080b42bca1f9ed27614d867b942_MIT18_781S12_pset5sol.pdf
+file_size: 198077
 file_type: application/pdf
 learning_resource_types:
 - Assignments
