@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding theory of numbers, solution
   2.
-file: /courses/18-781-theory-of-numbers-spring-2012/ab9702d463a4cfbd8a327a7f2091bd65_MIT18_781S12_pset2sol.pdf
+file: /ol-ocw-studio-app/courses/18-781-theory-of-numbers-spring-2012/ab9702d463a4cfbd8a327a7f2091bd65_MIT18_781S12_pset2sol.pdf
 file_size: 184213
 file_type: application/pdf
 learning_resource_types:
