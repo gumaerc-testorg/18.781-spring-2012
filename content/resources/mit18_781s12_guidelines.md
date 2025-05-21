@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Guidelines for Midterm1.
-file: /ol-ocw-studio-app/courses/18-781-theory-of-numbers-spring-2012/ea79d2165472814960d44ac4294355c1_MIT18_781S12_guidelines.pdf
+file: /courses/18-781-theory-of-numbers-spring-2012/ea79d2165472814960d44ac4294355c1_MIT18_781S12_guidelines.pdf
 file_size: 64264
 file_type: application/pdf
 learning_resource_types:
