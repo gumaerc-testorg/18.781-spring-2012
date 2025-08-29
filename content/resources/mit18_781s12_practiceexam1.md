@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Practice problems for Midterm1.
-file: /courses/18-781-theory-of-numbers-spring-2012/8990e475680fca08e381f83fab0f0d48_MIT18_781S12_practiceExam1.pdf
+file: /ol-ocw-studio-app/courses/18-781-theory-of-numbers-spring-2012/8990e475680fca08e381f83fab0f0d48_MIT18_781S12_practiceExam1.pdf
 file_size: 62013
 file_type: application/pdf
 learning_resource_types:
