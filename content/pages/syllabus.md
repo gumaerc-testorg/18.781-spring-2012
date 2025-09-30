@@ -50,11 +50,11 @@ This is a classic.
 
 It has a very different style from the usual theorem-proof-exercise setup of usual textbooks.
 
-*   Ireland, Kenneth F., and Michael I. Rosen. _A Classical Introduction to Modern Number Theory_. Springer, 1990. ISBN: 9780387973296. \[Preview with [Google Books](http://books.google.com/books?id=jhAXHuP2y04C&pg=Pafrontcover)\]
+*   Ireland, Kenneth F., and Michael I. Rosen. _A Classical Introduction to Modern Number Theory_. Springer, 1990. ISBN: 9780387973296. \[Preview with {{% resource_link "07feae40-584d-4342-a55a-9a71d417c36f" "Google Books" %}}\]
 
 Assumes more algebra background, but goes quite far, taking the reader to some of the frontiers of algebraic number theory.
 
-Another source is Franz Lemmermeyer's lecture notes online ([PDF](http://www.fen.bilkent.edu.tr/~franz/nth06/nth.pdf)). These assume a bit more background than Niven, Zuckerman and Montgomery, but perhaps not as much as Ireland and Rosen.
+Another source is Franz Lemmermeyer's lecture notes online ({{% resource_link "0545c64a-f7a2-4119-956d-2a5749464cd4" "PDF" %}}). These assume a bit more background than Niven, Zuckerman and Montgomery, but perhaps not as much as Ireland and Rosen.
 
 Homework
 --------
